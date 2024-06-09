@@ -60,3 +60,7 @@ The broader claim that no single woman has been responsible for any war in human
 The critical takeaway is that the dynamics of power and responsibility in human history are complex. They cannot be neatly divided along gender lines. In contemporary times, the push for gender equality aims to ensure that women have equal opportunities to participate in all spheres of life, including politics and military leadership, which could lead to a more balanced and potentially less conflict-driven world. 
 
 Kubrick's "Dr. Strangelove" might be seen as a product of its time, reflecting the male-dominated power structures of the mid-20th century. In modern discourse, it's crucial to recognize the contributions and capabilities of all genders while working towards a more inclusive and equitable society.
+
+# 3
+
+![](agi.png)
