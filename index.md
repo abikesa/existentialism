@@ -11,7 +11,7 @@
 2. Epistemology
    - Simulation
    - [Virtual Reality](https://www.youtube.com/watch?v=jlTrwdrzTTk)
-   - Plato's Cave
+   - [Plato's Cave](https://github.com/abikesa/existentialism/blob/main/the_question.md)
    - Matrix
 3. Ontology
    - [Alexnet](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
